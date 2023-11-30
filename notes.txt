@@ -1,3 +1,3 @@
 created app with vite, installed tailwind
 
-ctrl + space to aouto import component
+ctrl + space to auto import component
