@@ -10,12 +10,15 @@ function App() {
       
       {/*Navbar*/}
       <Navbar />
-      {/*Filtersr*/}
-      <Filters />
+      {/*Filters*/}
+      <div className="sm:mx-6 md:mx-8 lg:mx-12 px-3">
+        <Filters />
       {/*Rentals*/}
       <Rentals />
-      {/*Footer*/}
+      </div>
+      
 
+      {/*Footer*/}
     </div>
   )
 }
